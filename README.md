@@ -39,4 +39,4 @@ modules which should be perfectly easy to support with correct
 licence and correct preperations.  So if you wish to replace
 any module such as the graphics library or the physics engine
 (for optimizations related to your specific needs) it should
-be super easy to do if yo uread the specifications.
+be super easy to do if you read the specifications.
